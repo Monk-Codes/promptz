@@ -1,4 +1,7 @@
 import mongoose from "mongoose";
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 let isConnected = false; // track the connection
 
