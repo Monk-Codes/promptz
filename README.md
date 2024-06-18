@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JustDevs
+## Daily Blog sharing Application for Developers made using REACT JS
+- [Live Demo](https://justdevs.netlify.app/)
+<br/>
+<p align="center">
+<img src="logo.png" alt="image" width="400" height="300">
+  <a href="https://github.com/Monk-Codes/JustDev">
+  </a>
+  <h3 align="center">JustDevs</h3>
+
+  <p align="center">
+    Daily Blog sharing App for Developers.
+    <br/>
+    You can share your code here also with images.
+    <br/>
+    <a href="https://github.com/Monk-Codes/JustDev"><strong>Application made using REACT JS | Tailwind | Firebase</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/Monk-Codes/JustDev">View Demo</a>
+    .
+    <a href="https://github.com/Monk-Codes/JustDev/issues">Report Bug</a>
+    .
+    <a href="https://github.com/Monk-Codes/JustDev/issues">Request Feature</a>
+  </p>
+</p>
+
+![Forks](https://img.shields.io/github/forks/Monk-Codes/JustDev?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/JustDev?style=social) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Roadmap](#roadmap)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+
+## About The Project
+![Screenshot (116)](https://github.com/Monk-Codes/JustDev/assets/84877191/1257f9da-95d7-4d3b-bc5a-8930befb533f)
+![Screenshot (117)](https://github.com/Monk-Codes/JustDev/assets/84877191/6884c3e6-5b11-4f79-b1cc-6f8e1793c760)
+![Screenshot (118)](https://github.com/Monk-Codes/JustDev/assets/84877191/4e956e55-ffe0-4a92-87d4-a775590af087)
+![Screenshot (119)](https://github.com/Monk-Codes/JustDev/assets/84877191/89860660-029a-4311-96e3-18ba08af0913)
+![Screenshot (120)](https://github.com/Monk-Codes/JustDev/assets/84877191/28d1951d-50a1-4ab8-96bd-6ce2ded87fee)
+![Screenshot (121)](https://github.com/Monk-Codes/JustDev/assets/84877191/3cc12d6d-584d-4ed2-95d7-35d1375afd2b)
+
+Here's why:
+
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
+
+ So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+## Built With
+
+HTML | TAILWIND | REACT | VITE | FIREBASE
 
 ## Getting Started
 
-First, run the development server:
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Roadmap
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+See the [open issues](https://github.com/Monk-Codes//issues) for a list of proposed features (and known issues).
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Creating A Pull Request
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Learn More
+## Authors
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* **Monk-Codes** - *FRONTEND DEVELOPER* - [Monk-Codes](https://github.com/Monk-Codes) - **
