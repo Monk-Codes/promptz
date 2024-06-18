@@ -1,30 +1,28 @@
-# JustDevs
-## Daily Blog sharing Application for Developers made using REACT JS
-- [Live Demo](https://justdevs.netlify.app/)
+# Promptz
+## Share your AI promptz online 
+- [Live Demo](https://aipromptz.netlify.app/)
 <br/>
 <p align="center">
 <img src="logo.png" alt="image" width="400" height="300">
-  <a href="https://github.com/Monk-Codes/JustDev">
+  <a href="https://github.com/Monk-Codes/promptz">
   </a>
-  <h3 align="center">JustDevs</h3>
+  <h3 align="center">Promptz</h3>
 
   <p align="center">
-    Daily Blog sharing App for Developers.
+    Share your AI promptz online
     <br/>
-    You can share your code here also with images.
-    <br/>
-    <a href="https://github.com/Monk-Codes/JustDev"><strong>Application made using REACT JS | Tailwind | Firebase</strong></a>
+    <a href="https://github.com/Monk-Codes/promptz"><strong>Application made using Next JS | Tailwind | Firebase </strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/Monk-Codes/JustDev">View Demo</a>
+    <a href="https://github.com/Monk-Codes/promptz">View Demo</a>
     .
-    <a href="https://github.com/Monk-Codes/JustDev/issues">Report Bug</a>
+    <a href="https://github.com/Monk-Codes/promptz/issues">Report Bug</a>
     .
-    <a href="https://github.com/Monk-Codes/JustDev/issues">Request Feature</a>
+    <a href="https://github.com/Monk-Codes/promptz/issues">Request Feature</a>
   </p>
 </p>
 
-![Forks](https://img.shields.io/github/forks/Monk-Codes/JustDev?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/JustDev?style=social) 
+![Forks](https://img.shields.io/github/forks/Monk-Codes/promptz?style=social) ![Stargazers](https://img.shields.io/github/stars/Monk-Codes/promptz?style=social) 
 
 ## Table Of Contents
 
@@ -36,12 +34,9 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-![Screenshot (116)](https://github.com/Monk-Codes/JustDev/assets/84877191/1257f9da-95d7-4d3b-bc5a-8930befb533f)
-![Screenshot (117)](https://github.com/Monk-Codes/JustDev/assets/84877191/6884c3e6-5b11-4f79-b1cc-6f8e1793c760)
-![Screenshot (118)](https://github.com/Monk-Codes/JustDev/assets/84877191/4e956e55-ffe0-4a92-87d4-a775590af087)
-![Screenshot (119)](https://github.com/Monk-Codes/JustDev/assets/84877191/89860660-029a-4311-96e3-18ba08af0913)
-![Screenshot (120)](https://github.com/Monk-Codes/JustDev/assets/84877191/28d1951d-50a1-4ab8-96bd-6ce2ded87fee)
-![Screenshot (121)](https://github.com/Monk-Codes/JustDev/assets/84877191/3cc12d6d-584d-4ed2-95d7-35d1375afd2b)
+![Screenshot (131)](https://github.com/Monk-Codes/promptz/assets/84877191/f48fb89e-61fe-4a99-b71d-f0c920e8f3fc)
+![Screenshot (132)](https://github.com/Monk-Codes/promptz/assets/84877191/cac00834-59ca-4e16-bb41-1fb54a2e4ce2)
+
 
 Here's why:
 
@@ -55,7 +50,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ## Built With
 
-HTML | TAILWIND | REACT | VITE | FIREBASE
+HTML | TAILWIND | NEXT | VITE | FIREBASE
 
 ## Getting Started
 
